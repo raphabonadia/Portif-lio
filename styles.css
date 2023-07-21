@@ -245,7 +245,17 @@ nav {
     align-items: center;
     justify-content: space-between;
     padding: 25px 30px;
+
 }
+nav h3 {
+    color: white;
+}
+
+nav h3 span{
+    color: red;
+}
+
+
 
 .portfolio {
     color: white;
